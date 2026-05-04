@@ -16,10 +16,10 @@ MySQL | MS Excel | Dashboard Design
 ## Files
 | File | Description |
 |------|-------------|
-| `insurance_analysis.sql` | SQL queries & BMI classifier logic |
-| `insurance_dashboard.xlsx` | Excel dashboard with KPIs |
-| `dataset.csv` | Insurance dataset |
-| `dashboard_screenshot.png` | Dashboard preview |
+| `Insurance Project MySQL.sql` | SQL queries & BMI classifier logic |
+| `Project Insurance.csv` | Excel dashboard with KPIs |
+| `Insurance Dataset.csv` | Insurance dataset |
+| `Insurance Project Presentation.pptx` | Presentation File |
 
 ## Analysis Steps
 1. Data Cleaning — removed 50+ inconsistencies, validated BMI values
